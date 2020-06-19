@@ -18,13 +18,13 @@ export default class About extends Component {
                         frameworks. I cares about code quality and promotes teamwork.
                       </p>
                       <p>Besides all tech stuff, I am also a science-fiction fan, an indie game player, a cat lover.</p>
-                      <br/>
-                      <br/>
-                      <br/>
-                      <br/>
-                      <br/>
-                      <br/>
-                      <br/>
+                      <br />
+                      <br />
+                      <br />
+                      <br />
+                      <br />
+                      <br />
+                      <br />
                     </div>
                   </div>
                 </div>
@@ -32,7 +32,6 @@ export default class About extends Component {
             </div>
           </div>
         </section>
-        ;
       </div>
     );
   }
