@@ -73,7 +73,7 @@ export class SideBar extends Component {
           <div className="colorlib-footer">
             <p>
               <small>
-                template made with <i class="icon-heart" aria-hidden="true"></i> by{" "}
+                template made with <i className="icon-heart" aria-hidden="true"></i> by{" "}
                 <a href="https://colorlib.com" target="_blank">
                   Colorlib
                 </a>
