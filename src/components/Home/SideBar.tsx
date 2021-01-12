@@ -14,7 +14,7 @@ export class SideBar extends Component {
               <a href="index.html">Hongyi Xie</a>
             </h1>
             <span className="position">
-              <a href="#">Full Stack Web Developer</a> in Australia
+              <a href="#">Software Engineer</a> in Australia
             </span>
           </div>
           <nav id="colorlib-main-menu" role="navigation" className="navbar">

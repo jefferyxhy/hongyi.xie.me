@@ -20,8 +20,8 @@ export default class Introduction extends Component {
                           </h1>
                           {/* <h2></h2> */}
                           <p>
-                            <a className="btn btn-primary btn-learn">
-                              Download CV <i className="icon-download4" />
+                            <a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1Hbcs4OtOXK66pmtaMkIWgi3u1bx7zcCB/view?usp=sharing" target="_blank">
+                              Download CV <i className="icon-download4"></i>
                             </a>
                           </p>
                         </div>
@@ -38,16 +38,16 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>
-                            I am <br />a Full Stack Web Developer
+                            I am <br />a Software Engineer
                           </h1>
                           <h2>
                             and currently working for{" "}
-                            <a href="https://tcpinpoint.com/" target="_blank">
-                              TCPinpoint
+                            <a href="https://frollo.com.au/" target="_blank">
+                              Frollo
                             </a>
                           </h2>
                           <p>
-                            <a className="btn btn-primary btn-learn">
+                            <a className="btn btn-primary btn-learn" href="https://www.linkedin.com/in/hongyi-xie-091359b8/" target="_blank">
                               View Portfolio <i className="icon-briefcase3" />
                             </a>
                           </p>
